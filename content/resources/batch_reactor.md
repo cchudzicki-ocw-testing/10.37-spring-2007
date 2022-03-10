@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: batch_reactor.pdf
 uid: 8e7d2973-11d0-e016-1d45-01242715971c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

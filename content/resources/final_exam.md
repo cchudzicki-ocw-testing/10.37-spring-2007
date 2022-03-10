@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: final_exam.pdf
 uid: 3df90d50-1555-6ebb-24cf-7f79cfd5f943
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

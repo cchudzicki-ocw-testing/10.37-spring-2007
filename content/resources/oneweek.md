@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: oneweek.fig
 uid: 826539e9-1f31-123a-3c08-2a75b18ace20
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

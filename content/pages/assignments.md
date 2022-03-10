@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following assignment solutions were prepared by David Adrian, Karen Daniel, and Bin Pan. Used with permission. In each solution there is a summary document along with supporting files. The archive contains each assignment's problems, solutions, and supporting files.
@@ -31,11 +35,11 @@ ARCHIVES
 
 Problem set 1 ({{% resource_link fe4d2cbf-c258-bfa7-ecb7-4de768c24371 "PDF" %}})
 
-vinylethene1.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene1.txt))
+vinylethene1.txt ({{% resource_link a54d7b6f-bb33-533a-87e7-bd038e15f9a8 "TXT" %}})
 
-vinylethene2.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene2.txt))
+vinylethene2.txt ({{% resource_link 50950024-ebe4-e295-829d-5750692112bf "TXT" %}})
 
-vinylethene3.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene3.txt))
+vinylethene3.txt ({{% resource_link f3b117aa-3eb3-9481-5139-6ee3027e0247 "TXT" %}})
 
 
 {{< tdclose >}}
@@ -44,9 +48,9 @@ vinylethene3.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biologi
 
 ({{% resource_link 0dc1efb0-fe3c-2aa2-0917-8bcb7309ac9f "PDF" %}})
 
-hwk1prob1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob1.m))
+hwk1prob1.m ({{% resource_link d4e79158-fe34-44ac-de36-4e41d474e8a7 "M" %}})
 
-hwk1prob2.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob2.m))
+hwk1prob2.m ({{% resource_link 0ea03d95-44b4-3045-f385-94d5474b40a1 "M" %}})
 
 
 {{< tdclose >}}
@@ -76,7 +80,7 @@ Problem set 3 ({{% resource_link a94275ae-10e3-67a1-8928-c276904f8a9a "PDF" %}})
 
 ({{% resource_link d611926e-b0f9-0957-cae1-f97a9d09b461 "PDF" %}})
 
-hw3prob3.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw3prob3.m))
+hw3prob3.m ({{% resource_link 790b3808-42a2-fd5a-edc6-0e8272fa94e5 "M" %}})
 
 
 {{< tdclose >}}
@@ -140,9 +144,9 @@ Batch reactor balances ({{% resource_link 8e7d2973-11d0-e016-1d45-01242715971c "
 
 ({{% resource_link 53c43605-0d39-a0c9-74a1-ecbbb1b568ee "PDF" %}})
 
-hw6p1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw6p1.m))
+hw6p1.m ({{% resource_link 4f8bf92e-4a90-ff7b-8a25-5363d3ee8572 "M" %}})
 
-stabilitydiagram.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/stabilitydiagram.m))
+stabilitydiagram.m ({{% resource_link 30e1c72e-b270-691d-41f8-426adef11170 "M" %}})
 
 oneweek.fig ({{% resource_link 826539e9-1f31-123a-3c08-2a75b18ace20 "FIG - 1.7 MB" %}})
 
@@ -251,7 +255,7 @@ These files are courtesy of Andreas Braumann and Michael Goodson. Used with perm
 
 Pre-lab Assignment: ({{% resource_link b65851c8-2a92-9254-d227-1f908b3d06d7 "PDF" %}})
 
-Data: Run 1 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run1.txt)); Run 2 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run2.txt)); Run 3 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run3.txt)); Run 4 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run4.txt))
+Data: Run 1 ({{% resource_link 10e9b622-4987-b8af-72be-318809870e5e "TXT" %}}); Run 2 ({{% resource_link 769ebb15-20ab-841c-0896-62cc0b01d273 "TXT" %}}); Run 3 ({{% resource_link 2bff92b0-e916-8b32-3d46-403638e6165c "TXT" %}}); Run 4 ({{% resource_link 558b067c-eb2a-96b7-43c6-122f9379d1c0 "TXT" %}})
 
 Post-lab Assignment: ({{% resource_link 802b6a45-a661-6da9-983e-a1424894257a "PDF" %}})
 

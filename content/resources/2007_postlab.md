@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2007_postlab.pdf
 uid: 802b6a45-a661-6da9-983e-a1424894257a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

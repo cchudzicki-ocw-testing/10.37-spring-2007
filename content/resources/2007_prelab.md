@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2007_prelab.pdf
 uid: b65851c8-2a92-9254-d227-1f908b3d06d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

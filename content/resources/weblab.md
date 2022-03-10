@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: weblab.zip
 uid: e22f9efc-0240-b082-397f-b5913b774f0d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

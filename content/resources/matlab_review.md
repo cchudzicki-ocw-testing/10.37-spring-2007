@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlab_review.pdf
 uid: 553b0679-342c-8db1-3215-140b04230d06
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

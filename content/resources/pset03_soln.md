@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset03_soln.pdf
 uid: d611926e-b0f9-0957-cae1-f97a9d09b461
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

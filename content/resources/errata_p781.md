@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: errata_p781.pdf
 uid: 8b477edb-3104-c518-6030-85f0888253f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

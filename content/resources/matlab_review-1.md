@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: matlab_review.zip
 uid: bde337f1-c67c-233c-9445-d02c30ed7e06
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

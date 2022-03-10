@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 856dd290-3098-a93d-b074-f23f2870a240
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These lecture notes were prepared by Tiffany Iaconis, Frederick Jao, and Vicky Loewer for MIT OpenCourseWare. They are preliminary and may contain errors.

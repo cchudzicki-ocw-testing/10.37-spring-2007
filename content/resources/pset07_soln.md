@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset07_soln.pdf
 uid: eec26df1-f2b6-a5cf-3bd9-4f5e54c8adb8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

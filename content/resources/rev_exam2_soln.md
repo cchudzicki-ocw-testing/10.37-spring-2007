@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rev_exam2_soln.pdf
 uid: 4dc64db8-7634-af69-7118-3d5bb2db4c23
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

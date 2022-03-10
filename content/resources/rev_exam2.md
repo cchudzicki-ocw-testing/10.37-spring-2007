@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rev_exam2.pdf
 uid: 61e8acef-1848-aae3-35ea-82bedf0b187b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

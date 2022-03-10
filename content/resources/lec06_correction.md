@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec06_correction.pdf
 uid: d0db6b13-c38f-ab65-7834-34f87bfac95f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

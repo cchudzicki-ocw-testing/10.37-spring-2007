@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: pset07.zip
 uid: fe9bf988-50a2-a19e-7b87-26d7c156b59c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

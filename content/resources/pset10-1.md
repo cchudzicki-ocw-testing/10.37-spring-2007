@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: pset10.zip
 uid: c9ecd323-b443-d986-1337-193200a6fd7e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

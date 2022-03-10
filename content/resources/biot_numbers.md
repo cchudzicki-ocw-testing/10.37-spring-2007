@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: biot_numbers.pdf
 uid: ca372842-a20e-2e54-16bc-f2f3faf118f4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
