@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Sample solutions to exercises.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/ae74d9be7081c68602577da009d4602f_learntouseevents.m
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/ae74d9be7081c68602577da009d4602f_learntouseevents.m
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,7 @@ title: learntouseevents.m
 uid: ae74d9be-7081-c686-0257-7da009d4602f
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Sample solutions to exercises.

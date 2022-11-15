@@ -1,13 +1,15 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/c9ecd323b443d9861337193200a6fd7e_pset10.zip
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/c9ecd323b443d9861337193200a6fd7e_pset10.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
 resourcetype: Other
 title: pset10.zip
 uid: c9ecd323-b443-d986-1337-193200a6fd7e

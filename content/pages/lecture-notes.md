@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes lecture notes prepared by Tiffany Iaconis, Frederick
+  Jao, and Vicky Loewer for MIT OpenCourseWare. They are preliminary and may contain
+  errors.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

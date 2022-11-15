@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Sample solutions to exercises.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/c1e14bd17fb650a5dbf3d45e9177b346_sampleproblem2.m
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/c1e14bd17fb650a5dbf3d45e9177b346_sampleproblem2.m
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,7 @@ title: sampleproblem2.m
 uid: c1e14bd1-7fb6-50a5-dbf3-d45e9177b346
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Sample solutions to exercises.

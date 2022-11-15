@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides course exams, solutions, and review materials.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -59,7 +60,7 @@ Review problems for midterm 2
 ({{% resource_link 61e8acef-1848-aae3-35ea-82bedf0b187b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4dc64db8-7634-af69-7118-3d5bb2db4c23 "PDF" %}})
+({{% resource_link 4dc64db8-7634-af69-7118-3d5bb2db4c23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
